@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-  🎯 À la recherche d'un stage en Cybersécurité (Début : [Tes Dates Ici])
+  🎯 À la recherche d'un stage de fin d'année en Cybersécurité
 </h3>
 
 <p align="center">
