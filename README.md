@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/1200x300/1a1a1a/e53935?text=ShadowRich+%7C+Cybersecurity+%26+Development" alt="Bannière Profil" width="100%" />
-</div>
+
 
 <h1 align="center">💀 T. RICHARD aka ShadowRich</h1>
 
