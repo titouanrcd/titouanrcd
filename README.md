@@ -1,4 +1,5 @@
 
+<img width="1141" height="620" alt="Capture d&#39;écran 2025-12-23 163047" src="https://github.com/user-attachments/assets/7c20678c-70a6-470b-acc1-d9062666f2d9" />
 
 <h1 align="center">💀 T. RICHARD aka ShadowRich</h1>
 
